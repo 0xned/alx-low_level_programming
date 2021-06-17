@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/* print a statement using printf */
-
+/**
+ *main - Entry point
+ *print a statement using printf
+ *Return: 0
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
