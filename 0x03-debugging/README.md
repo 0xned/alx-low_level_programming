@@ -1,0 +1,1 @@
+Debugging; finding and fixing errors that makes the software run incorrectly
